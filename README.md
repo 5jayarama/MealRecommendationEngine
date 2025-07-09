@@ -1,4 +1,4 @@
-<img width="1027" alt="image" src="https://github.com/user-attachments/assets/a2589745-a94f-4027-ba60-0e88060a1ebf" /># MealRecommendationEngine
+# MealRecommendationEngine
 
 To run this program, you can do either of the following:
 1. Clone this repo and run it
