@@ -10,4 +10,5 @@ Then the user can then use the site my clicking their preferred options and sele
 
 See images for reference:
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/d50c9f0f-6c59-4aa9-9d91-ab02d5736e39" />
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/ec9624bf-d34c-4bc2-81d9-7e3caf86d5c5" />
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/ff19c565-d278-476d-ad05-c4c663364be8" />
+
